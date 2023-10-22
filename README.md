@@ -1,2 +1,3 @@
 # ChatCSV
 Processing of CSV Files using Conversational AI
+This code snippet is designed to create a language model agent using the langchain library and the OpenAI GPT-3.5 model. After setting up the OpenAI API key, it loads a CSV file containing data and initializes the agent with this data source. The code is structured to execute user-defined queries or questions using the language model agent and obtain responses. This agent serves as an interface for interacting with OpenAI's powerful language model, allowing users to input questions and receive natural language responses, making it a valuable tool for various natural language understanding tasks.
